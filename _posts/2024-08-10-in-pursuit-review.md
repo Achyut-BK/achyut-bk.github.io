@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book Review: In Pursuit of the Unknown by Randall Munroe"
+title:  "Book Review: In Pursuit of the Unknown by Ian Stewart"
 author: achyut
 categories: [ "Book Reviews" ]
 tags: ["reviews"]
@@ -20,7 +20,7 @@ Every chapter is dedicated to the complete study of one equation. It starts with
 The best part of the book is how the author makes simple topics deep, and complex topics simple. For example the pythagorean theorem. Every student has covered it at some point during their middle school career. At the time it seems to just be a fairly simple statement about relating the sides of triangles to each other. Not particularly useful outside of a maths textbook. 
 
 >a<sup>2</sup>+b<sup>2</sup>=c<sup>2</sup> <br>
-where c is the length of the hypotenuse, and a and b are the lenths of the other 2 sides.
+where c is the length of the hypotenuse, and a and b are the lengths of the other 2 sides.
 
 However, Professor Stewart quickly dispels such misguided notions, by exploring how the theorem led to the development of trigonometry, and from there to more accurate surveys. He then shows how, by starting from trigonometry and euclidean axioms, we can work our way upwards to describe non-euclidean geometries and hyperbolic space. From there he starts to explore n-dimensional space, and as a coup-de-grace defines gravity in terms of geometry - Einstein's celebrated theory of General Relativity. 
 
